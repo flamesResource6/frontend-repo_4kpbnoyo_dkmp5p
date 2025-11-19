@@ -18,7 +18,7 @@ const features = [
         <rect x="2" y="2" width="20" height="20" rx="10" />
       </svg>
     ),
-    title: "Watch nostalgic stories come life",
+    title: "Watch nostalgic stories come to life",
     color: "bg-[#ffd6b5] text-[#7a4b2d]",
   },
   {
